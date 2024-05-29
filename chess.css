@@ -1,0 +1,28 @@
+table{
+    border-collapse:collapse;
+}
+td{
+    border:2px rgb(78, 75, 75) solid;
+    height:85px;
+    width:85px;
+    cursor:pointer;
+}
+td:hover{
+    background-color:rgb(65, 180, 8);
+}
+.white{
+    background-color:rgb(239, 239, 239);
+}
+.black{
+    background-color:rgb(151, 151, 151);
+}
+img{
+    height:100%;
+    width:100%;
+    border:none;
+}
+p{
+    height:60px;
+    width:60px;
+    border:2px solid black;
+}
